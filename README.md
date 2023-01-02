@@ -3,6 +3,8 @@ A collection of public and free software and manuals for Slamtec RPLIDAR and sim
 
 This is mainly meant to give some quick and easy tools to get started working on a Lidar or the like
 
+### OBS: "The code and materials found in this repository is not created or coded by me (author), it is a collection of resources made public from other sites."
+
 ### Slamtec RPLIDAR A2
 ![alt text](https://github.com/DanielVisgaard/SlamtecLidar/blob/main/Pictures/Lidar.jpg?raw=true)
 
