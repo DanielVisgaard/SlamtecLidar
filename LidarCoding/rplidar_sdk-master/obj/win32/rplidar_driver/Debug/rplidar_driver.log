@@ -1,0 +1,62 @@
+﻿  net_serial.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  net_socket.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  timer.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  thread.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  rplidar_driver.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  sl_crc.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  sl_lidar_driver.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_lidar_driver.cpp(1069,34): warning C4244: 'argument': conversion from 'sl_u16' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=sl_u8
+          ]
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_lidar_driver.cpp(1078,1): warning C4267: 'initializing': conversion from 'size_t' to 'sl_u8', possible loss of data
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_lidar_driver.cpp(1089,35): warning C4018: '<': signed/unsigned mismatch
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_lidar_driver.cpp(1058,19): warning C4101: 'pkt_header': unreferenced local variable
+  sl_serial_channel.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  sl_tcp_channel.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_tcp_channel.cpp(57,16): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'unsigned int' can equal the given constant
+  sl_udp_channel.cpp
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_protocol.h(58,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\include\sl_lidar_cmd.h(295,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\sdk\src\sl_udp_channel.cpp(56,16): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'unsigned int' can equal the given constant
+  Generating Code...
+  rplidar_driver.vcxproj -> E:\Users\Desktop\5_Semester_Github\RiC_Coding\Exercises\LIDAR\rplidar_sdk-master\output\win32\Debug\rplidar_driver.lib
